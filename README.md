@@ -1,5 +1,5 @@
 # Probleme-siruri
-Probleme cu siruri avand diferite grade de dificultate
+Probleme cu siruri avand diferite grade de dificultate/String problems with different digrees of difficulty
 
 Bibliografie
 
